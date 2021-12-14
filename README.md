@@ -26,9 +26,6 @@ Program runs in the command line. Start it with `npm start`. Initially there is 
 ### Example command sequences
 
 * The command sequence: `N E S W` will move the robot in a full square, returning it to where it started.
-* If the robot starts in the south-west corner of the warehouse then the following commands will move it to the middle of the warehouse.
-
-`N E N E N E N E`
 
 ## Testing
 
